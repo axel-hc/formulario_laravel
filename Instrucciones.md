@@ -10,6 +10,21 @@ Proyecto de formulario desarrollado en *Laravel*. se uso XAMPP para ejecutarse d
 - **Versión de PHP:** 8.2.12 
 No se uso base como se indico se uso el envio Asincrono "guardar_mensaje.php"
 
+**Lo mas importante se encuentra en las siguientes carpetas
+
+MessageController -> \logicaApp\app\Http\Controllers 
+
+El json guarda los registros - guardar_mensaje.php -> \logicaApp\storage\app
+
+web.php -> \htdocs\logicaApp\routes
+
+Las vistas son:
+contacto.blade -> \htdocs\logicaApp\resources\views 
+registros.blade -> \htdocs\logicaApp\resources\views 
+
+**
+
+
 ---
 
 # Instalación y Configuración
